@@ -31,5 +31,5 @@
 ## 📚 개발 과정 블로그
 
 > 학습 기록은 아래 블로그에 연재 중입니다.  
-[👉 블로그 바로가기](https://duxpetal.tistory.com/category/%EC%8A%A4%ED%94%84%EB%B6%80%ED%8A%B8_%EA%B3%B5%EB%B6%80)
+[👉 블로그 바로가기]([https://duxpetal.tistory.com/category/%EC%8A%A4%ED%94%84%EB%B6%80%ED%8A%B8_%EA%B3%B5%EB%B6%80](https://duxpetal.tistory.com/category/%EC%8A%A4%ED%94%84%EB%A7%81_%EB%B6%80%ED%8A%B8_%EA%B3%B5%EB%B6%80))
 
